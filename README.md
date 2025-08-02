@@ -45,7 +45,7 @@ Télécharge simplement le fichier `po_translator.exe` et double-clique !
 
 ### Étapes d’installation :
 
-1. Télécharge l’archive `po_translator_linux.tar.gz` depuis la [section Releases](https://github.com/...) du dépôt
+1. Télécharge l’archive `po_translator_linux.tar.gz` depuis la [section Releases]([https://github.com/...](https://github.com/kekstyle/po_translator/tree/main/Linux)) du dépôt
 2. Ouvre un terminal et rends-toi dans ton dossier de téléchargement :
 	```bash
 	cd ~/Téléchargements
